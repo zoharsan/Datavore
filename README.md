@@ -1,3 +1,3 @@
-# Datavore
+# Datavore - Hortonworks Lab
 
-This repository contains the lab and prerequisites document.
+This repository contains the lab instructions and prerequisites document.
